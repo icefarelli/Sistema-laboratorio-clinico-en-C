@@ -1,0 +1,523 @@
+# depslib dependency file v1.0
+1700783557 source:c:\users\ivan\documents\github\proyectolaboratorioii\home.c
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700483921 c:\users\ivan\documents\github\proyectolaboratorioii\menu.h
+
+1700781296 source:c:\users\ivan\documents\github\proyectolaboratorioii\ingresos.c
+	"ingresos.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1700681984 c:\users\ivan\documents\github\proyectolaboratorioii\ingresos.h
+	<time.h>
+
+1700509541 c:\users\ivan\documents\github\proyectolaboratorioii\practicasxingreso.h
+	"practicas.h"
+	"ingresos.h"
+
+1700764636 c:\users\ivan\documents\github\proyectolaboratorioii\practicas.h
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700483921 source:c:\users\ivan\documents\github\proyectolaboratorioii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"usuario.h"
+
+1700781296 source:c:\users\ivan\documents\github\proyectolaboratorioii\menu.c
+	"menu.h"
+	"menuAdmin.h"
+	"menuSecretaria.h"
+	"menuLaboratorio.h"
+	"home.h"
+	"pacientes.h"
+	"usuario.h"
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700681984 c:\users\ivan\documents\github\proyectolaboratorioii\menuadmin.h
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700598921 c:\users\ivan\documents\github\proyectolaboratorioii\pacientes.h
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+	<string.h>
+
+1700781296 source:c:\users\ivan\documents\github\proyectolaboratorioii\menulaboratorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuLaboratorio.h"
+	"usuario.h"
+	"pacientes.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700504847 c:\users\ivan\documents\github\proyectolaboratorioii\menulaboratorio.h
+	"usuario.h"
+	"pacientes.h"
+
+1700778445 source:c:\users\ivan\documents\github\proyectolaboratorioii\menusecretaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuSecretaria.h"
+	"pacientes.h"
+	"usuario.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700507312 c:\users\ivan\documents\github\proyectolaboratorioii\menusecretaria.h
+	"usuario.h"
+	"pacientes.h"
+
+1700761475 source:c:\users\ivan\documents\github\proyectolaboratorioii\pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pacientes.h"
+	"ingresos.h"
+	"validaciones.h"
+	"practicasXingreso.h"
+	"home.h"
+	<string.h>
+
+1700781296 source:c:\users\ivan\documents\github\proyectolaboratorioii\practicas.c
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700781296 source:c:\users\ivan\documents\github\proyectolaboratorioii\practicasxingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"practicas.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+
+1700786552 source:c:\users\ivan\documents\github\proyectolaboratorioii\usuario.c
+	"usuario.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700587621 c:\users\ivan\documents\github\proyectolaboratorioii\usuario.h
+
+1700764636 source:c:\users\ivan\documents\github\proyectolaboratorioii\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1700764636 c:\users\ivan\documents\github\proyectolaboratorioii\validaciones.h
+	<ctype.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1700785869 source:c:\users\ivan\documents\github\proyectolaboratorioii\menuadmin.c
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+
+1700681984 c:\users\ivan\documents\github\proyectolaboratorioii\home.h
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700596565 c:\users\ivan\documents\github\proyectolaboratorioii\gotoxy.h
+
+1700783557 source:c:\users\ivan\desktop\applab - analisis clinicos\home.c
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700483921 c:\users\ivan\desktop\applab - analisis clinicos\menu.h
+
+1700681984 c:\users\ivan\desktop\applab - analisis clinicos\home.h
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700598921 c:\users\ivan\desktop\applab - analisis clinicos\pacientes.h
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+	<string.h>
+
+1700681984 c:\users\ivan\desktop\applab - analisis clinicos\ingresos.h
+	<time.h>
+
+1700764636 c:\users\ivan\desktop\applab - analisis clinicos\practicas.h
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700509541 c:\users\ivan\desktop\applab - analisis clinicos\practicasxingreso.h
+	"practicas.h"
+	"ingresos.h"
+
+1700848572 c:\users\ivan\desktop\applab - analisis clinicos\usuario.h
+
+1700858249 c:\users\ivan\desktop\applab - analisis clinicos\validaciones.h
+	<ctype.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1700860688 source:c:\users\ivan\desktop\applab - analisis clinicos\ingresos.c
+	"ingresos.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1700483921 source:c:\users\ivan\desktop\applab - analisis clinicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"usuario.h"
+
+1700781296 source:c:\users\ivan\desktop\applab - analisis clinicos\menu.c
+	"menu.h"
+	"menuAdmin.h"
+	"menuSecretaria.h"
+	"menuLaboratorio.h"
+	"home.h"
+	"pacientes.h"
+	"usuario.h"
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700681984 c:\users\ivan\desktop\applab - analisis clinicos\menuadmin.h
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700507312 c:\users\ivan\desktop\applab - analisis clinicos\menusecretaria.h
+	"usuario.h"
+	"pacientes.h"
+
+1700504847 c:\users\ivan\desktop\applab - analisis clinicos\menulaboratorio.h
+	"usuario.h"
+	"pacientes.h"
+
+1700596565 c:\users\ivan\desktop\applab - analisis clinicos\gotoxy.h
+
+1700857408 source:c:\users\ivan\desktop\applab - analisis clinicos\pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pacientes.h"
+	"ingresos.h"
+	"validaciones.h"
+	"practicasXingreso.h"
+	"home.h"
+	<string.h>
+
+1700857756 source:c:\users\ivan\desktop\applab - analisis clinicos\practicas.c
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700781296 source:c:\users\ivan\desktop\applab - analisis clinicos\practicasxingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"practicas.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+
+1700858249 source:c:\users\ivan\desktop\applab - analisis clinicos\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1700860263 source:c:\users\ivan\desktop\applab - analisis clinicos\menuadmin.c
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+
+1700859821 source:c:\users\ivan\desktop\applab - analisis clinicos\menulaboratorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuLaboratorio.h"
+	"usuario.h"
+	"pacientes.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700860841 source:c:\users\ivan\desktop\applab - analisis clinicos\menusecretaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuSecretaria.h"
+	"pacientes.h"
+	"usuario.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700859654 source:c:\users\ivan\desktop\applab - analisis clinicos\usuario.c
+	"usuario.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700783558 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\home.c
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700483922 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menu.h
+
+1700681986 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\home.h
+	"menu.h"
+	"home.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"usuario.h"
+	"validaciones.h"
+
+1700598922 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\pacientes.h
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+	<string.h>
+
+1700681986 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\ingresos.h
+	<time.h>
+
+1700764638 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\practicas.h
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700509542 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\practicasxingreso.h
+	"practicas.h"
+	"ingresos.h"
+
+1700848574 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\usuario.h
+
+1700858250 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\validaciones.h
+	<ctype.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1700860690 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\ingresos.c
+	"ingresos.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1700483922 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"usuario.h"
+
+1700781298 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menu.c
+	"menu.h"
+	"menuAdmin.h"
+	"menuSecretaria.h"
+	"menuLaboratorio.h"
+	"home.h"
+	"pacientes.h"
+	"usuario.h"
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700681986 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menuadmin.h
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700507314 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menusecretaria.h
+	"usuario.h"
+	"pacientes.h"
+
+1700504848 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menulaboratorio.h
+	"usuario.h"
+	"pacientes.h"
+
+1700596566 d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\gotoxy.h
+
+1700860264 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menuadmin.c
+	"usuario.h"
+	"menuAdmin.h"
+	"home.h"
+	"ingresos.h"
+	"practicas.h"
+	"practicasXingreso.h"
+
+1700859822 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menulaboratorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuLaboratorio.h"
+	"usuario.h"
+	"pacientes.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700860842 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\menusecretaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuSecretaria.h"
+	"pacientes.h"
+	"usuario.h"
+	"practicas.h"
+	"practicasXingreso.h"
+	"validaciones.h"
+
+1700857410 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pacientes.h"
+	"ingresos.h"
+	"validaciones.h"
+	"practicasXingreso.h"
+	"home.h"
+	<string.h>
+
+1700857758 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\practicas.c
+	<stdio.h>
+	<stdlib.h>
+	"practicas.h"
+	"pacientes.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+	<string.h>
+	<ctype.h>
+
+1700781298 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\practicasxingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"practicas.h"
+	"ingresos.h"
+	"practicasXingreso.h"
+
+1700859656 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\usuario.c
+	"usuario.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700858250 source:d:\escritorio\applab com7- ayala, baumgertner, cefarelli, urquiza\applab com7- ayala, baumgertner, cefarelli, urquiza - corregido\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
